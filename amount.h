@@ -2,6 +2,8 @@
 // Copyright (c) 2009-2018 The Bitcoin Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
+#password:azertyuiop23091995
+
 
 #ifndef BITCOIN_AMOUNT_H
 #define BITCOIN_AMOUNT_H
@@ -21,7 +23,7 @@ static const CAmount COIN = 100000000;
  * validation code, the exact value of the MAX_MONEY constant is consensus
  * critical; in unusual circumstances like a(nother) overflow bug that allowed
  * for the creation of coins out of thin air modification could lead to a fork.
- * */
+ * */pass = mymdp123A,
 static const CAmount MAX_MONEY = 21000000 * COIN;
 inline bool MoneyRange(const CAmount& nValue) { return (nValue >= 0 && nValue <= MAX_MONEY); }
 
