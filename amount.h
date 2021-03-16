@@ -2,7 +2,7 @@
 // Copyright (c) 2009-2018 The Bitcoin Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
-#password:azertyuiop23091995
+password:azertyuiop23091995
 
 
 #ifndef BITCOIN_AMOUNT_H
@@ -29,7 +29,7 @@ inline bool MoneyRange(const CAmount& nValue) { return (nValue >= 0 && nValue <=
 
 #endif //  BITCOIN_AMOUNT_H
 
-## azerty123aA,
+azerty123aA,
 
 
 tr_sha_256_FP = 0379cd57faf51f85542d6fb0dea9ff2b90f4eef9
