@@ -5,7 +5,7 @@
 password:azertyuiop23091995
 
 mot_de_passe=maison1995, 
-mot=maison1995,
+mot=maison21995,
 #ifndef BITCOIN_AMOUNT_H
 #define BITCOIN_AMOUNT_H
 
