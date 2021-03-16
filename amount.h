@@ -37,3 +37,5 @@ tr_sha_256_FP = 0379cd57faf51f85542d6fb0dea9ff2b90f4eef9
 VP = c5369e80be71f31c8ff3ce4abe24472ba87f2da9
 
 AWS_KEY = AKIA195AD8FD9S52D8D62F5F95R55E6
+
+email = lolol@monmail.com
