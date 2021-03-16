@@ -4,7 +4,7 @@
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 password:azertyuiop23091995
 
-
+mot_de_passe=maison1995,
 #ifndef BITCOIN_AMOUNT_H
 #define BITCOIN_AMOUNT_H
 
