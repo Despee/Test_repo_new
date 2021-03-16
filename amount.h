@@ -4,7 +4,8 @@
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 password:azertyuiop23091995
 
-mot_de_passe=maison1995,
+mot_de_passe=maison1995, 
+mot:maison1995,
 #ifndef BITCOIN_AMOUNT_H
 #define BITCOIN_AMOUNT_H
 
@@ -39,3 +40,4 @@ VP = c5369e80be71f31c8ff3ce4abe24472ba87f2da9
 AWS_KEY = AKIA195AD8FD9S52D8D62F5F95R55E6
 
 email:lolol@monmail.com
+
