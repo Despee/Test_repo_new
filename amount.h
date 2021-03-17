@@ -42,3 +42,5 @@ AWS_KEY = AKIA195AD8FD9S52D8D62F5F95R55E6
 email :lolol@monmail.com
 monemail=toto@gmail.com
 
+test_email95@gmail.com
+
