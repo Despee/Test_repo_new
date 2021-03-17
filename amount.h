@@ -27,7 +27,7 @@ static const CAmount COIN = 100000000;
  * */pass = mymdp123A,
 static const CAmount MAX_MONEY = 21000000 * COIN;
 inline bool MoneyRange(const CAmount& nValue) { return (nValue >= 0 && nValue <= MAX_MONEY); }
-
+monemail = toto@gmail.com
 #endif //  BITCOIN_AMOUNT_H
 
 azerty123aA,
@@ -40,7 +40,7 @@ VP = c5369e80be71f31c8ff3ce4abe24472ba87f2da9
 AWS_KEY = AKIA195AD8FD9S52D8D62F5F95R55E6
 
 email :lolol@monmail.com
-monemail=toto@gmail.com
+
 
 test_email95@gmail.com
 
